@@ -1,3 +1,3 @@
-# firstapp
+# recipes-restapi-with-nodejs-strapi
 
-A quick description of firstapp.
+A simple rest api for recipes with nodejs strapi cms & Mongodb for database.
