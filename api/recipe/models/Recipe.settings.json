@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "recipes",
+  "info": {
+    "name": "recipe",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "default": "",
+      "type": "string"
+    },
+    "recipe": {
+      "default": "",
+      "type": "string"
+    },
+    "created_at": {
+      "default": "",
+      "type": "date"
+    },
+    "category_id": {
+      "default": "",
+      "type": "integer"
+    }
+  }
+}
